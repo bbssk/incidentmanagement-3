@@ -152,6 +152,6 @@
   },
   "sap.cloud": {
     "public": true,
-    "service": "incidentmanagement3.service"
+    "service": "incidentmanagement.service"
   }
 }

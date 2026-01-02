@@ -1,5 +1,5 @@
 {
-  "name": "incidentmanagement-3",
+  "name": "incidentmanagement",
   "version": "1.0.0",
   "description": "A simple CAP project.",
   "dependencies": {
@@ -46,7 +46,8 @@
       },
       "destinations": true,
       "html5-runtime": true,
-      "workzone": true
+      "workzone": true,
+      "html5-repo": true
     }
   },
   "private": true,
