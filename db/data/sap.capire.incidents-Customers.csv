@@ -1,0 +1,11 @@
+ID,firstName,lastName,email,phone,creditCardNo,createdAt,createdBy,modifiedAt,modifiedBy
+Customers-17850625,firstName-17850625,lastName-17850625,email-17850625,phone-17850625,ex ^[1-9]\d{15}$,2016-11-25T00:00:00.000Z,createdBy.amlmp@example.com,2007-12-18T00:00:00.000Z,modifiedBy.amlmp@example.com
+Customers-1437295,firstName-1437295,lastName-1437295,email-1437295,phone-1437295,ex ^[1-9]\d{15}$,2012-02-25T00:00:00.000Z,createdBy.ut0v@example.net,2002-10-03T00:00:00.000Z,modifiedBy.ut0v@example.net
+Customers-1437296,firstName-1437296,lastName-1437296,email-1437296,phone-1437296,ex ^[1-9]\d{15}$,2002-11-13T00:00:00.000Z,createdBy.ut0w@example.net,2006-01-07T00:00:00.000Z,modifiedBy.ut0w@example.com
+Customers-1437297,firstName-1437297,lastName-1437297,email-1437297,phone-1437297,ex ^[1-9]\d{15}$,2021-05-14T00:00:00.000Z,createdBy.ut0x@example.net,2011-02-16T00:00:00.000Z,modifiedBy.ut0x@example.com
+Customers-1437298,firstName-1437298,lastName-1437298,email-1437298,phone-1437298,ex ^[1-9]\d{15}$,2020-05-09T00:00:00.000Z,createdBy.ut0y@example.net,2006-09-05T00:00:00.000Z,modifiedBy.ut0y@example.net
+Customers-1437299,firstName-1437299,lastName-1437299,email-1437299,phone-1437299,ex ^[1-9]\d{15}$,2018-09-01T00:00:00.000Z,createdBy.ut0z@example.com,2005-04-17T00:00:00.000Z,modifiedBy.ut0z@example.net
+Customers-1437300,firstName-1437300,lastName-1437300,email-1437300,phone-1437300,ex ^[1-9]\d{15}$,2023-11-02T00:00:00.000Z,createdBy.ut10@example.org,2004-05-08T00:00:00.000Z,modifiedBy.ut10@example.org
+Customers-1437301,firstName-1437301,lastName-1437301,email-1437301,phone-1437301,ex ^[1-9]\d{15}$,2019-07-28T00:00:00.000Z,createdBy.ut11@example.org,2019-05-03T00:00:00.000Z,modifiedBy.ut11@example.net
+Customers-1437302,firstName-1437302,lastName-1437302,email-1437302,phone-1437302,ex ^[1-9]\d{15}$,2023-02-11T00:00:00.000Z,createdBy.ut12@example.net,2007-04-05T00:00:00.000Z,modifiedBy.ut12@example.com
+Customers-1437303,firstName-1437303,lastName-1437303,email-1437303,phone-1437303,ex ^[1-9]\d{15}$,2022-04-17T00:00:00.000Z,createdBy.ut13@example.com,2008-09-22T00:00:00.000Z,modifiedBy.ut13@example.com

@@ -1,0 +1,5 @@
+code,criticality,name,descr
+N,73,new,new
+H,62,on_hold,on_hold
+A,7,assigned,assigned
+R,12,resolved,resolved
